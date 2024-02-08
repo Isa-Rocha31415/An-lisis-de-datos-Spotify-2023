@@ -53,7 +53,7 @@ El proyecto consta de los siguientes componentes principales:
 El archivo `spotify-2023.csv` contiene los datos de las canciones más reproducidas en Spotify en 2023. Se accede a este archivo a través de una URL de GitHub y se carga en un DataFrame de Pandas para su manipulación y análisis.
 
 ## Enlace a Google Colab 📝
-[Enlace a mi notebook en Colab](https://colab.research.google.com/drive/1EzJkP2Qa9jfI4qhRNWBr1zTcpegfJBiy?usp=sharing)
+[Enlace a mi notebook en Colab](https://colab.research.google.com/drive/1EzJkP2Qa9jfI4qhRNWBr1zTcpegfJBiy?usp=sharing#scrollTo=z8ttj7Db_cz3)
 
 ## Contribuciones y Contacto
 
