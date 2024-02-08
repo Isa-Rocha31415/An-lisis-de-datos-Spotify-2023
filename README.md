@@ -22,7 +22,7 @@ Los cambios en las tendencias musicales ocurren a un ritmo acelerado, lo que pla
 
 ## Requisitos
 
-Para ejecutar este proyecto, se requiere tener instaladas las siguientes bibliotecas de Python:
+Para ejecutar este proyecto, debe asegurarse de ejecutar las bibliotecas siguientes primero:
 
 - `numpy` (para operaciones numéricas eficientes)
 - `pandas` (para manipulación y análisis de datos)
@@ -30,8 +30,6 @@ Para ejecutar este proyecto, se requiere tener instaladas las siguientes bibliot
 - `plotly` (para visualización interactiva)
 - `requests` (para realizar solicitudes HTTP)
 - `chardet` (para detectar la codificación de caracteres en el archivo CSV)
-
-Para instalar las bibliotecas, puede utilizar el siguiente comando:
 
 ## Uso del Código
 
