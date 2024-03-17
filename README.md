@@ -5,6 +5,15 @@
 ## Descripción del Problema 🤔
 Los cambios en las tendencias musicales ocurren a un ritmo acelerado, lo que plantea desafíos interesantes para comprender y predecir el comportamiento de los consumidores en el mundo de la música. Este proyecto se centra en analizar los datos de Spotify para identificar tendencias temporales y responder a diversas preguntas relacionadas con la evolución de la música a lo largo del tiempo. 🚀
 
+## Objetivos
+nota: los objetivos se desarollan a lo largo del proyecto
+- Obtener el lapso de tiempo en el que cambian las tendencias
+- Hacer un modelo predictivo que recomiendo musíca en basea  las tendicas del 2023. T3
+- Saber si el artista determina el nuevo genero en tendenicia o diseversa.
+- Experimentar con los diversos modelos de Machine Learning.
+- Comprobar si algunas variables de tendencia tienen un patrón en común.
+
+
 ## Preguntas de Investigación ❓
 1. ¿De cuánto es el lapso de tiempo entre el cambio de tendencia?
 2. ¿Se puede predecir la próxima tendencia utilizando los datos presentados?
